@@ -1,4 +1,4 @@
-export const API_URL="http://localhost:4000"
+// export const API_URL="http://localhost:4000"
 
 
-// const API_URL="https://vendorbackend-f6oz.onrender.com"
+const API_URL="https://vendorbackend-f6oz.onrender.com"
